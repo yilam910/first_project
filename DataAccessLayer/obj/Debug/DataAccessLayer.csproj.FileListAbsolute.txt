@@ -1,0 +1,45 @@
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

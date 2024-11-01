@@ -1,0 +1,55 @@
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\bin\Debug\DTO.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\bin\Debug\DTO.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\bin\Debug\DTO.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\bin\Debug\DTO.pdb
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Dell Latitude 5520\Downloads\ToyStorePOS\ToyStorePOS\ToyStore-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
